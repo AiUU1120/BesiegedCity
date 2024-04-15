@@ -1,0 +1,5 @@
+[
+{"id":1,"imgRes":"SceneImg/GameScene1","name":"关卡A","tips":"这是第一个关卡","sceneName":"GameScene1","money":200,"towerHp":300},
+{"id":2,"imgRes":"SceneImg/GameScene2","name":"关卡B","tips":"这是第二个关卡","sceneName":"GameScene2","money":200,"towerHp":300},
+{"id":3,"imgRes":"SceneImg/GameScene3","name":"关卡C","tips":"这是第三个关卡","sceneName":"GameScene3","money":200,"towerHp":300}
+]
